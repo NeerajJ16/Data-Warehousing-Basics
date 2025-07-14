@@ -10,13 +10,9 @@ This project demonstrates a complete modern data warehousing pipeline using:
 
 ## 🛠️ Project Structure
 Data Warehouse Full/
-
 ├── .env # Contains DB connection string (not shared publicly)
-
 ├── IngestionCode/ # Python scripts for ingesting data
-
 ├── logs/ # Optional logs and exports
-
 └── my_warehouse/ # dbt project folder with models, seeds, snapshots
 
 ---
